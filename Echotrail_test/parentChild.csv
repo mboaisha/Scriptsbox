@@ -1,0 +1,11 @@
+parent_process,child_process
+Cmd.exe,Powershell.exe
+Wmiprvse.exe,Cmd.exe
+Cmd.exe,Cmd.exe
+Cmd.exe,Reg.exe
+Explorer.exe,Excel.exe
+Cmd.exe,Net.exe
+Rundll32.exe,Rundll32.exe
+Explorer.exe,Wscript.exe
+Net.exe,Net1.exe
+Powershell.exe,Powershell.exe
